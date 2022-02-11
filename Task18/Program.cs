@@ -15,11 +15,11 @@ for (int i = 0; i < 2; i++)
             flag = false;
         }
         System.Console.WriteLine("{0,8} {1,8} {2,8} {3,8}", arrayX[i], arrayY[j], f1, f2);
-        
+
         System.Console.WriteLine();
     }
 }
-if(flag == true)
-System.Console.WriteLine("Выражение верно для всех значений X и Y");
+if (flag == true)
+    System.Console.WriteLine("Выражение верно для всех значений X и Y");
 else
-System.Console.WriteLine("Выражение неверно для всех значений X и Y");
+    System.Console.WriteLine("Выражение неверно для всех значений X и Y");

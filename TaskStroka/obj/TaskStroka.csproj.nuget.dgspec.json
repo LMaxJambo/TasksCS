@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geeek Brains\\Введение C#\\Seminar003\\TaskStroka\\TaskStroka.csproj": {}
+    "D:\\Geeek Brains\\Введение C#\\TasksCS\\TaskStroka\\TaskStroka.csproj": {}
   },
   "projects": {
-    "D:\\Geeek Brains\\Введение C#\\Seminar003\\TaskStroka\\TaskStroka.csproj": {
+    "D:\\Geeek Brains\\Введение C#\\TasksCS\\TaskStroka\\TaskStroka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\Seminar003\\TaskStroka\\TaskStroka.csproj",
+        "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\TasksCS\\TaskStroka\\TaskStroka.csproj",
         "projectName": "TaskStroka",
-        "projectPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\TaskStroka\\TaskStroka.csproj",
+        "projectPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\TaskStroka\\TaskStroka.csproj",
         "packagesPath": "C:\\Users\\toure\\.nuget\\packages\\",
-        "outputPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\TaskStroka\\obj\\",
+        "outputPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\TaskStroka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toure\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

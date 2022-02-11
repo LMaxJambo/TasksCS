@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task30\\Task30.csproj",
+      "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task30\\Task30.csproj",
       "projectName": "Task30",
-      "projectPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task30\\Task30.csproj",
+      "projectPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task30\\Task30.csproj",
       "packagesPath": "C:\\Users\\toure\\.nuget\\packages\\",
-      "outputPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task30\\obj\\",
+      "outputPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task30\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\toure\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

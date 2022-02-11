@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task27\\Task27.csproj": {}
+    "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task27\\Task27.csproj": {}
   },
   "projects": {
-    "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task27\\Task27.csproj": {
+    "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task27\\Task27.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task27\\Task27.csproj",
+        "projectUniqueName": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task27\\Task27.csproj",
         "projectName": "Task27",
-        "projectPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task27\\Task27.csproj",
+        "projectPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task27\\Task27.csproj",
         "packagesPath": "C:\\Users\\toure\\.nuget\\packages\\",
-        "outputPath": "D:\\Geeek Brains\\Введение C#\\Seminar003\\Task27\\obj\\",
+        "outputPath": "D:\\Geeek Brains\\Введение C#\\TasksCS\\Task27\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toure\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
