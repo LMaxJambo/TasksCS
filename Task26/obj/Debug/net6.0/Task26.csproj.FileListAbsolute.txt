@@ -1,0 +1,15 @@
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.csproj.AssemblyReference.cache
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.AssemblyInfoInputs.cache
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.AssemblyInfo.cs
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.csproj.CoreCompileInputs.cache
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\Task26.exe
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\Task26.deps.json
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\Task26.runtimeconfig.json
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\Task26.dll
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\ref\Task26.dll
+D:\Geeek Brains\Введение C#\Seminar003\Task26\bin\Debug\net6.0\Task26.pdb
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.dll
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\ref\Task26.dll
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.pdb
+D:\Geeek Brains\Введение C#\Seminar003\Task26\obj\Debug\net6.0\Task26.genruntimeconfig.cache
