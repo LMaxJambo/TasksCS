@@ -4,4 +4,4 @@ double F(double a)
 {
     return a*a;
 }
-System.Console.WriteLine(F(8));
+System.Console.WriteLine(F(5));
