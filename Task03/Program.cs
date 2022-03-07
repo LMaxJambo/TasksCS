@@ -24,4 +24,3 @@ else
 {
     Console.WriteLine ("Число a равно числу b");
 }
-
